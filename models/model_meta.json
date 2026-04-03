@@ -1,0 +1,21 @@
+{
+  "model_name": "XGBRegressor",
+  "problem_type": "regression",
+  "feature_names": [
+    "focus_score",
+    "addiction_level_Low",
+    "daily_screen_time",
+    "social_media_hours",
+    "study_hours",
+    "age daily_screen_time",
+    "age social_media_hours",
+    "age study_hours",
+    "daily_screen_time^2",
+    "daily_screen_time social_media_hours",
+    "daily_screen_time study_hours",
+    "social_media_hours^2",
+    "social_media_hours sleep_hours",
+    "study_hours^2",
+    "study_hours sleep_hours"
+  ]
+}
